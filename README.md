@@ -53,10 +53,6 @@ ARIMA(p, d, q) × (P, D, Q, s)
 - Fácil integración con regresores clásicos (LinearRegression, RandomForest, etc).
 - Soporte para predicción **multi-step**.
 
-Ejemplo de modelos usados:
-- `ForecasterAutoreg` para predicción de 1 paso.
-- `ForecasterAutoregMultiSeries` para múltiples variables.
-
 ### 3. **Modelos de Machine Learning**
 
 También se han utilizado modelos supervisados para la predicción de variables meteorológicas:
